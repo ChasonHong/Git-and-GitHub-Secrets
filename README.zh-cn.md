@@ -570,10 +570,10 @@ GitHubs 图标库 (Octicons) 现已开源。
 ![Octicons](https://og.github.com/octicons/octicons@1200x630.png)
 
 [*进一步了解 GitHub 图标库*](https://octicons.github.com)
-
-### 补：Github 上操作虽多，但是都是围绕一个个的项目展开的。
-### Github 上的项目有一个新名称，叫 ”仓库“ ( repository   )。说白了，一个仓库就是一个用 git 进行了版本控制的项目
-
+```html
+Github 上操作虽多，但是都是围绕一个个的项目展开的。
+Github 上的项目有一个新名称，叫 ”仓库“ ( repository   )。说白了，一个仓库就是一个用 git 进行了版本控制的项目
+```
 ### GitHub 资源
 | 内容 | 链接 |
 | ----- | ---- |
